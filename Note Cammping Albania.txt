@@ -1,0 +1,8 @@
+Do jete nje faqe WEB-i qe do te shfaqi informacion dhe lokacione per te gjithe 
+te interesuarit qe duan te bejne cammping me tenda apo me kamper ne territorin
+e Shqiperise. Perdoruesit pasi te logohen do te kene akses ne te gjitha facilitetet
+qe kjo faqe mund te ofroje. Perdoruesit pasi te klikojne ne nje prej qyteteve te 
+shqiperise do te drejtohen nepermjet nj API ne harten e google maps. Ne  kete faqe
+Web-i mund te kene dhe nje komunitet te tyrin ku shkembejne mendime eksperienca dhe 
+bashke me to dhe foto e video. Gjithashtu mund te dedikojme nje hapesire per te gjithe
+te interesuarit per blerje te materialeve te cammpingut te quajtur Store.
